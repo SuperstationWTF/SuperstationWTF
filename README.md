@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SuperstationWTF
 - 👀 I’m interested in keeping the peace in IPTV githubs
-- 🌱 I’m currently learning basic coding.
-- 💞️ I’m looking to collaborate on there are some android apks like NewPipe that I would like to improve.
+- 🌱 I’m currently learning basic coding. I have little idea what I am doing, just copying what others do.
+- 💞️ I’m looking to collaborate on there are some android apks like IPTVvnator or an android M3U player.
 - 📫 How to reach me ...
 
 <!---
